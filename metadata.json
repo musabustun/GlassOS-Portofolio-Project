@@ -1,0 +1,7 @@
+{
+  "name": "GlassOS Portfolio",
+  "description": "A high-fidelity macOS-inspired developer portfolio with liquid glass aesthetics, functional window management, and a built-in Gemini AI assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
